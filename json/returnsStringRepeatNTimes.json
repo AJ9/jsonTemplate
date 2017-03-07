@@ -1,0 +1,6957 @@
+{
+  "homePages": {
+    "heroes": [
+      {
+        "customerId": "value",
+        "id": "value",
+        "type": "value",
+        "position": {
+          "m": "value",
+          "f": "value",
+          "a": "value"
+        }
+      },
+      {
+        "customerId": "value",
+        "id": "value",
+        "type": "value",
+        "position": {
+          "m": "value",
+          "f": "value",
+          "a": "value"
+        }
+      }
+    ],
+    "lists": [
+      {
+        "listId": "value",
+        "size": "value",
+        "shouldShowTitle": "value"
+      },
+      {
+        "listId": "value",
+        "size": "value",
+        "shouldShowTitle": "value"
+      }
+    ]
+  },
+  "searchPlaceholder": "value",
+  "searchNoSearchResults": {
+    "title": "value",
+    "content": [
+      {
+        "id": "value",
+        "type": "value"
+      },
+      {
+        "id": "value",
+        "type": "value"
+      },
+      {
+        "id": "value",
+        "type": "value"
+      },
+      {
+        "id": "value",
+        "type": "value"
+      },
+      {
+        "id": "value",
+        "type": "value"
+      },
+      {
+        "id": "value",
+        "type": "value"
+      },
+      {
+        "id": "value",
+        "type": "value"
+      },
+      {
+        "id": "value",
+        "type": "value"
+      },
+      {
+        "id": "value",
+        "type": "value"
+      },
+      {
+        "id": "value",
+        "type": "value"
+      }
+    ]
+  },
+  "customSearchResults": [
+    {
+      "id": "value",
+      "searchTitle": "value",
+      "searchSubTitle": "value",
+      "link": "value",
+      "aliases": [],
+      "imageUrl": "value",
+      "linkBehaviour": "value"
+    },
+    {
+      "id": "value",
+      "searchTitle": "value",
+      "searchSubTitle": "value",
+      "link": "value",
+      "aliases": [
+        "value",
+        "value",
+        "value",
+        "value",
+        "value"
+      ],
+      "imageUrl": "value",
+      "linkBehaviour": "value"
+    },
+    {
+      "id": "value",
+      "searchTitle": "value",
+      "searchSubTitle": "value",
+      "link": "value",
+      "aliases": [
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value"
+      ],
+      "imageUrl": "value",
+      "linkBehaviour": "value"
+    },
+    {
+      "id": "value",
+      "searchTitle": "value",
+      "searchSubTitle": "value",
+      "link": "value",
+      "aliases": [
+        "value",
+        "value",
+        "value"
+      ],
+      "imageUrl": "value",
+      "linkBehaviour": "value"
+    },
+    {
+      "id": "value",
+      "searchTitle": "value",
+      "searchSubTitle": "value",
+      "link": "value",
+      "aliases": [
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value"
+      ],
+      "imageUrl": "value",
+      "linkBehaviour": "value"
+    },
+    {
+      "id": "value",
+      "searchTitle": "value",
+      "searchSubTitle": "value",
+      "link": "value",
+      "aliases": [
+        "value",
+        "value",
+        "value",
+        "value",
+        "value"
+      ],
+      "imageUrl": "value",
+      "linkBehaviour": "value"
+    },
+    {
+      "id": "value",
+      "searchTitle": "value",
+      "searchSubTitle": "value",
+      "link": "value",
+      "aliases": [
+        "value"
+      ],
+      "imageUrl": "value",
+      "linkBehaviour": "value"
+    }
+  ],
+  "settings": {
+    "rewardsEnabled": "value",
+    "blogEnabled": "value",
+    "defaultRewardsAmount": "value",
+    "registrationTermsAgreement": "value"
+  },
+  "customers": [
+    {
+      "id": "value",
+      "name": "value",
+      "description": "value",
+      "displayUrl": "value",
+      "searchSubtitle": "value",
+      "aliases": [
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value"
+      ],
+      "availableLogoId": "value",
+      "comingSoonLogoId": "value",
+      "perks": [
+        {
+          "perkTermsMode": "value",
+          "perkTermsUrl": "value",
+          "perkTermsText": "value",
+          "description": "value",
+          "viewPerkImageId": "value",
+          "validity": "value",
+          "share": {
+            "title": "value",
+            "message": "value",
+            "url": "value"
+          },
+          "termsUrl": "value",
+          "info": "value",
+          "flag": "value",
+          "subdomain": "value",
+          "name": "value",
+          "channel": "value",
+          "state": "value",
+          "perkType": "value",
+          "gridImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "heroImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "viewPerkImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "positiveKeyTerms": [
+            "value",
+            "value"
+          ],
+          "negativeKeyTerms": [],
+          "images": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "categories": [
+            "value",
+            "value"
+          ],
+          "id": "value"
+        },
+        {
+          "perkTermsMode": "value",
+          "perkTermsUrl": "value",
+          "perkTermsText": "value",
+          "description": "value",
+          "viewPerkImageId": "value",
+          "validity": "value",
+          "share": {
+            "title": "value",
+            "message": "value",
+            "url": "value"
+          },
+          "termsUrl": "value",
+          "info": "value",
+          "flag": "value",
+          "subdomain": "value",
+          "name": "value",
+          "channel": "value",
+          "state": "value",
+          "perkType": "value",
+          "gridImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "heroImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "viewPerkImages": [],
+          "positiveKeyTerms": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "negativeKeyTerms": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "images": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "categories": [
+            "value",
+            "value"
+          ],
+          "id": "value"
+        },
+        {
+          "perkTermsMode": "value",
+          "perkTermsUrl": "value",
+          "perkTermsText": "value",
+          "description": "value",
+          "viewPerkImageId": "value",
+          "validity": "value",
+          "share": {
+            "title": "value",
+            "message": "value",
+            "url": "value"
+          },
+          "termsUrl": "value",
+          "info": "value",
+          "flag": "value",
+          "subdomain": "value",
+          "name": "value",
+          "channel": "value",
+          "state": "value",
+          "perkType": "value",
+          "gridImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "heroImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "viewPerkImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "positiveKeyTerms": [
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "negativeKeyTerms": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "images": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "categories": [
+            "value",
+            "value",
+            "value"
+          ],
+          "id": "value"
+        }
+      ],
+      "customSlides": [],
+      "relatedTo": [
+        "value",
+        "value",
+        "value",
+        "value",
+        "value"
+      ],
+      "stocks": [
+        "value",
+        "value"
+      ],
+      "similarTo": [
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value"
+      ],
+      "perkChannels": "value",
+      "perkStates": "value"
+    },
+    {
+      "id": "value",
+      "name": "value",
+      "description": "value",
+      "displayUrl": "value",
+      "searchSubtitle": "value",
+      "aliases": [
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value"
+      ],
+      "availableLogoId": "value",
+      "comingSoonLogoId": "value",
+      "perks": [
+        {
+          "perkTermsMode": "value",
+          "perkTermsUrl": "value",
+          "perkTermsText": "value",
+          "description": "value",
+          "viewPerkImageId": "value",
+          "validity": "value",
+          "share": {
+            "title": "value",
+            "message": "value",
+            "url": "value"
+          },
+          "termsUrl": "value",
+          "info": "value",
+          "flag": "value",
+          "subdomain": "value",
+          "name": "value",
+          "channel": "value",
+          "state": "value",
+          "perkType": "value",
+          "gridImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "heroImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "viewPerkImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "positiveKeyTerms": [
+            "value",
+            "value"
+          ],
+          "negativeKeyTerms": [
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "images": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "categories": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "id": "value"
+        },
+        {
+          "perkTermsMode": "value",
+          "perkTermsUrl": "value",
+          "perkTermsText": "value",
+          "description": "value",
+          "viewPerkImageId": "value",
+          "validity": "value",
+          "share": {
+            "title": "value",
+            "message": "value",
+            "url": "value"
+          },
+          "termsUrl": "value",
+          "info": "value",
+          "flag": "value",
+          "subdomain": "value",
+          "name": "value",
+          "channel": "value",
+          "state": "value",
+          "perkType": "value",
+          "gridImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "heroImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "viewPerkImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "positiveKeyTerms": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "negativeKeyTerms": [
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "images": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "categories": [
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "id": "value"
+        }
+      ],
+      "customSlides": [],
+      "relatedTo": [
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value"
+      ],
+      "stocks": [
+        "value"
+      ],
+      "similarTo": [
+        "value",
+        "value",
+        "value",
+        "value",
+        "value"
+      ],
+      "perkChannels": "value",
+      "perkStates": "value"
+    },
+    {
+      "id": "value",
+      "name": "value",
+      "description": "value",
+      "displayUrl": "value",
+      "searchSubtitle": "value",
+      "aliases": [
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value"
+      ],
+      "availableLogoId": "value",
+      "comingSoonLogoId": "value",
+      "perks": [
+        {
+          "perkTermsMode": "value",
+          "perkTermsUrl": "value",
+          "perkTermsText": "value",
+          "description": "value",
+          "viewPerkImageId": "value",
+          "validity": "value",
+          "share": {
+            "title": "value",
+            "message": "value",
+            "url": "value"
+          },
+          "termsUrl": "value",
+          "info": "value",
+          "flag": "value",
+          "subdomain": "value",
+          "name": "value",
+          "channel": "value",
+          "state": "value",
+          "perkType": "value",
+          "gridImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "heroImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "viewPerkImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "positiveKeyTerms": [],
+          "negativeKeyTerms": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "images": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "categories": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "id": "value"
+        },
+        {
+          "perkTermsMode": "value",
+          "perkTermsUrl": "value",
+          "perkTermsText": "value",
+          "description": "value",
+          "viewPerkImageId": "value",
+          "validity": "value",
+          "share": {
+            "title": "value",
+            "message": "value",
+            "url": "value"
+          },
+          "termsUrl": "value",
+          "info": "value",
+          "flag": "value",
+          "subdomain": "value",
+          "name": "value",
+          "channel": "value",
+          "state": "value",
+          "perkType": "value",
+          "gridImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "heroImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "viewPerkImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "positiveKeyTerms": [],
+          "negativeKeyTerms": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "images": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "categories": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "id": "value"
+        },
+        {
+          "perkTermsMode": "value",
+          "perkTermsUrl": "value",
+          "perkTermsText": "value",
+          "description": "value",
+          "viewPerkImageId": "value",
+          "validity": "value",
+          "share": {
+            "title": "value",
+            "message": "value",
+            "url": "value"
+          },
+          "termsUrl": "value",
+          "info": "value",
+          "flag": "value",
+          "subdomain": "value",
+          "name": "value",
+          "channel": "value",
+          "state": "value",
+          "perkType": "value",
+          "gridImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "heroImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "viewPerkImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "positiveKeyTerms": [
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "negativeKeyTerms": [],
+          "images": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "categories": [],
+          "id": "value"
+        },
+        {
+          "perkTermsMode": "value",
+          "perkTermsUrl": "value",
+          "perkTermsText": "value",
+          "description": "value",
+          "viewPerkImageId": "value",
+          "validity": "value",
+          "share": {
+            "title": "value",
+            "message": "value",
+            "url": "value"
+          },
+          "termsUrl": "value",
+          "info": "value",
+          "flag": "value",
+          "subdomain": "value",
+          "name": "value",
+          "channel": "value",
+          "state": "value",
+          "perkType": "value",
+          "gridImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "heroImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "viewPerkImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "positiveKeyTerms": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "negativeKeyTerms": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "images": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "categories": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "id": "value"
+        },
+        {
+          "perkTermsMode": "value",
+          "perkTermsUrl": "value",
+          "perkTermsText": "value",
+          "description": "value",
+          "viewPerkImageId": "value",
+          "validity": "value",
+          "share": {
+            "title": "value",
+            "message": "value",
+            "url": "value"
+          },
+          "termsUrl": "value",
+          "info": "value",
+          "flag": "value",
+          "subdomain": "value",
+          "name": "value",
+          "channel": "value",
+          "state": "value",
+          "perkType": "value",
+          "gridImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "heroImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "viewPerkImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "positiveKeyTerms": [],
+          "negativeKeyTerms": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "images": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "categories": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "id": "value"
+        }
+      ],
+      "customSlides": [],
+      "relatedTo": [
+        "value",
+        "value",
+        "value"
+      ],
+      "stocks": [
+        "value",
+        "value",
+        "value",
+        "value"
+      ],
+      "similarTo": [
+        "value"
+      ],
+      "perkChannels": "value",
+      "perkStates": "value"
+    },
+    {
+      "id": "value",
+      "name": "value",
+      "description": "value",
+      "displayUrl": "value",
+      "searchSubtitle": "value",
+      "aliases": [
+        "value",
+        "value",
+        "value",
+        "value",
+        "value"
+      ],
+      "availableLogoId": "value",
+      "comingSoonLogoId": "value",
+      "perks": [
+        {
+          "perkTermsMode": "value",
+          "perkTermsUrl": "value",
+          "perkTermsText": "value",
+          "description": "value",
+          "viewPerkImageId": "value",
+          "validity": "value",
+          "share": {
+            "title": "value",
+            "message": "value",
+            "url": "value"
+          },
+          "termsUrl": "value",
+          "info": "value",
+          "flag": "value",
+          "subdomain": "value",
+          "name": "value",
+          "channel": "value",
+          "state": "value",
+          "perkType": "value",
+          "gridImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "heroImages": [],
+          "viewPerkImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "positiveKeyTerms": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "negativeKeyTerms": [
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "images": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "categories": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "id": "value"
+        },
+        {
+          "perkTermsMode": "value",
+          "perkTermsUrl": "value",
+          "perkTermsText": "value",
+          "description": "value",
+          "viewPerkImageId": "value",
+          "validity": "value",
+          "share": {
+            "title": "value",
+            "message": "value",
+            "url": "value"
+          },
+          "termsUrl": "value",
+          "info": "value",
+          "flag": "value",
+          "subdomain": "value",
+          "name": "value",
+          "channel": "value",
+          "state": "value",
+          "perkType": "value",
+          "gridImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "heroImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "viewPerkImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "positiveKeyTerms": [
+            "value",
+            "value"
+          ],
+          "negativeKeyTerms": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "images": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "categories": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "id": "value"
+        },
+        {
+          "perkTermsMode": "value",
+          "perkTermsUrl": "value",
+          "perkTermsText": "value",
+          "description": "value",
+          "viewPerkImageId": "value",
+          "validity": "value",
+          "share": {
+            "title": "value",
+            "message": "value",
+            "url": "value"
+          },
+          "termsUrl": "value",
+          "info": "value",
+          "flag": "value",
+          "subdomain": "value",
+          "name": "value",
+          "channel": "value",
+          "state": "value",
+          "perkType": "value",
+          "gridImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "heroImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "viewPerkImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "positiveKeyTerms": [
+            "value",
+            "value",
+            "value"
+          ],
+          "negativeKeyTerms": [
+            "value"
+          ],
+          "images": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "categories": [
+            "value"
+          ],
+          "id": "value"
+        },
+        {
+          "perkTermsMode": "value",
+          "perkTermsUrl": "value",
+          "perkTermsText": "value",
+          "description": "value",
+          "viewPerkImageId": "value",
+          "validity": "value",
+          "share": {
+            "title": "value",
+            "message": "value",
+            "url": "value"
+          },
+          "termsUrl": "value",
+          "info": "value",
+          "flag": "value",
+          "subdomain": "value",
+          "name": "value",
+          "channel": "value",
+          "state": "value",
+          "perkType": "value",
+          "gridImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "heroImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "viewPerkImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "positiveKeyTerms": [
+            "value",
+            "value"
+          ],
+          "negativeKeyTerms": [],
+          "images": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "categories": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "id": "value"
+        },
+        {
+          "perkTermsMode": "value",
+          "perkTermsUrl": "value",
+          "perkTermsText": "value",
+          "description": "value",
+          "viewPerkImageId": "value",
+          "validity": "value",
+          "share": {
+            "title": "value",
+            "message": "value",
+            "url": "value"
+          },
+          "termsUrl": "value",
+          "info": "value",
+          "flag": "value",
+          "subdomain": "value",
+          "name": "value",
+          "channel": "value",
+          "state": "value",
+          "perkType": "value",
+          "gridImages": [],
+          "heroImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "viewPerkImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "positiveKeyTerms": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "negativeKeyTerms": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "images": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "categories": [
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "id": "value"
+        },
+        {
+          "perkTermsMode": "value",
+          "perkTermsUrl": "value",
+          "perkTermsText": "value",
+          "description": "value",
+          "viewPerkImageId": "value",
+          "validity": "value",
+          "share": {
+            "title": "value",
+            "message": "value",
+            "url": "value"
+          },
+          "termsUrl": "value",
+          "info": "value",
+          "flag": "value",
+          "subdomain": "value",
+          "name": "value",
+          "channel": "value",
+          "state": "value",
+          "perkType": "value",
+          "gridImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "heroImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "viewPerkImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "positiveKeyTerms": [],
+          "negativeKeyTerms": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "images": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "categories": [
+            "value"
+          ],
+          "id": "value"
+        },
+        {
+          "perkTermsMode": "value",
+          "perkTermsUrl": "value",
+          "perkTermsText": "value",
+          "description": "value",
+          "viewPerkImageId": "value",
+          "validity": "value",
+          "share": {
+            "title": "value",
+            "message": "value",
+            "url": "value"
+          },
+          "termsUrl": "value",
+          "info": "value",
+          "flag": "value",
+          "subdomain": "value",
+          "name": "value",
+          "channel": "value",
+          "state": "value",
+          "perkType": "value",
+          "gridImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "heroImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "viewPerkImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "positiveKeyTerms": [
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "negativeKeyTerms": [
+            "value"
+          ],
+          "images": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "categories": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "id": "value"
+        }
+      ],
+      "customSlides": [],
+      "relatedTo": [
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value"
+      ],
+      "stocks": [
+        "value"
+      ],
+      "similarTo": [
+        "value",
+        "value",
+        "value",
+        "value",
+        "value"
+      ],
+      "perkChannels": "value",
+      "perkStates": "value"
+    },
+    {
+      "id": "value",
+      "name": "value",
+      "description": "value",
+      "displayUrl": "value",
+      "searchSubtitle": "value",
+      "aliases": [
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value"
+      ],
+      "availableLogoId": "value",
+      "comingSoonLogoId": "value",
+      "perks": [],
+      "customSlides": [],
+      "relatedTo": [
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value"
+      ],
+      "stocks": [],
+      "similarTo": [
+        "value",
+        "value",
+        "value",
+        "value",
+        "value"
+      ],
+      "perkChannels": "value",
+      "perkStates": "value"
+    },
+    {
+      "id": "value",
+      "name": "value",
+      "description": "value",
+      "displayUrl": "value",
+      "searchSubtitle": "value",
+      "aliases": [
+        "value",
+        "value",
+        "value",
+        "value"
+      ],
+      "availableLogoId": "value",
+      "comingSoonLogoId": "value",
+      "perks": [
+        {
+          "perkTermsMode": "value",
+          "perkTermsUrl": "value",
+          "perkTermsText": "value",
+          "description": "value",
+          "viewPerkImageId": "value",
+          "validity": "value",
+          "share": {
+            "title": "value",
+            "message": "value",
+            "url": "value"
+          },
+          "termsUrl": "value",
+          "info": "value",
+          "flag": "value",
+          "subdomain": "value",
+          "name": "value",
+          "channel": "value",
+          "state": "value",
+          "perkType": "value",
+          "gridImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "heroImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "viewPerkImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "positiveKeyTerms": [
+            "value",
+            "value"
+          ],
+          "negativeKeyTerms": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "images": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "categories": [
+            "value",
+            "value"
+          ],
+          "id": "value"
+        }
+      ],
+      "customSlides": [],
+      "relatedTo": [
+        "value"
+      ],
+      "stocks": [
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value"
+      ],
+      "similarTo": [
+        "value",
+        "value"
+      ],
+      "perkChannels": "value",
+      "perkStates": "value"
+    },
+    {
+      "id": "value",
+      "name": "value",
+      "description": "value",
+      "displayUrl": "value",
+      "searchSubtitle": "value",
+      "aliases": [
+        "value",
+        "value",
+        "value"
+      ],
+      "availableLogoId": "value",
+      "comingSoonLogoId": "value",
+      "perks": [
+        {
+          "perkTermsMode": "value",
+          "perkTermsUrl": "value",
+          "perkTermsText": "value",
+          "description": "value",
+          "viewPerkImageId": "value",
+          "validity": "value",
+          "share": {
+            "title": "value",
+            "message": "value",
+            "url": "value"
+          },
+          "termsUrl": "value",
+          "info": "value",
+          "flag": "value",
+          "subdomain": "value",
+          "name": "value",
+          "channel": "value",
+          "state": "value",
+          "perkType": "value",
+          "gridImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "heroImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "viewPerkImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "positiveKeyTerms": [
+            "value",
+            "value",
+            "value"
+          ],
+          "negativeKeyTerms": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "images": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "categories": [
+            "value"
+          ],
+          "id": "value"
+        },
+        {
+          "perkTermsMode": "value",
+          "perkTermsUrl": "value",
+          "perkTermsText": "value",
+          "description": "value",
+          "viewPerkImageId": "value",
+          "validity": "value",
+          "share": {
+            "title": "value",
+            "message": "value",
+            "url": "value"
+          },
+          "termsUrl": "value",
+          "info": "value",
+          "flag": "value",
+          "subdomain": "value",
+          "name": "value",
+          "channel": "value",
+          "state": "value",
+          "perkType": "value",
+          "gridImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "heroImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "viewPerkImages": [],
+          "positiveKeyTerms": [
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "negativeKeyTerms": [
+            "value",
+            "value",
+            "value"
+          ],
+          "images": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "categories": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "id": "value"
+        },
+        {
+          "perkTermsMode": "value",
+          "perkTermsUrl": "value",
+          "perkTermsText": "value",
+          "description": "value",
+          "viewPerkImageId": "value",
+          "validity": "value",
+          "share": {
+            "title": "value",
+            "message": "value",
+            "url": "value"
+          },
+          "termsUrl": "value",
+          "info": "value",
+          "flag": "value",
+          "subdomain": "value",
+          "name": "value",
+          "channel": "value",
+          "state": "value",
+          "perkType": "value",
+          "gridImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "heroImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "viewPerkImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "positiveKeyTerms": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "negativeKeyTerms": [
+            "value"
+          ],
+          "images": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "categories": [],
+          "id": "value"
+        },
+        {
+          "perkTermsMode": "value",
+          "perkTermsUrl": "value",
+          "perkTermsText": "value",
+          "description": "value",
+          "viewPerkImageId": "value",
+          "validity": "value",
+          "share": {
+            "title": "value",
+            "message": "value",
+            "url": "value"
+          },
+          "termsUrl": "value",
+          "info": "value",
+          "flag": "value",
+          "subdomain": "value",
+          "name": "value",
+          "channel": "value",
+          "state": "value",
+          "perkType": "value",
+          "gridImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "heroImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "viewPerkImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "positiveKeyTerms": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "negativeKeyTerms": [
+            "value",
+            "value",
+            "value"
+          ],
+          "images": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "categories": [],
+          "id": "value"
+        }
+      ],
+      "customSlides": [],
+      "relatedTo": [
+        "value",
+        "value",
+        "value",
+        "value"
+      ],
+      "stocks": [
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value"
+      ],
+      "similarTo": [
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value"
+      ],
+      "perkChannels": "value",
+      "perkStates": "value"
+    },
+    {
+      "id": "value",
+      "name": "value",
+      "description": "value",
+      "displayUrl": "value",
+      "searchSubtitle": "value",
+      "aliases": [
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value"
+      ],
+      "availableLogoId": "value",
+      "comingSoonLogoId": "value",
+      "perks": [
+        {
+          "perkTermsMode": "value",
+          "perkTermsUrl": "value",
+          "perkTermsText": "value",
+          "description": "value",
+          "viewPerkImageId": "value",
+          "validity": "value",
+          "share": {
+            "title": "value",
+            "message": "value",
+            "url": "value"
+          },
+          "termsUrl": "value",
+          "info": "value",
+          "flag": "value",
+          "subdomain": "value",
+          "name": "value",
+          "channel": "value",
+          "state": "value",
+          "perkType": "value",
+          "gridImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "heroImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "viewPerkImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "positiveKeyTerms": [
+            "value"
+          ],
+          "negativeKeyTerms": [
+            "value",
+            "value"
+          ],
+          "images": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "categories": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "id": "value"
+        },
+        {
+          "perkTermsMode": "value",
+          "perkTermsUrl": "value",
+          "perkTermsText": "value",
+          "description": "value",
+          "viewPerkImageId": "value",
+          "validity": "value",
+          "share": {
+            "title": "value",
+            "message": "value",
+            "url": "value"
+          },
+          "termsUrl": "value",
+          "info": "value",
+          "flag": "value",
+          "subdomain": "value",
+          "name": "value",
+          "channel": "value",
+          "state": "value",
+          "perkType": "value",
+          "gridImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "heroImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "viewPerkImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "positiveKeyTerms": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "negativeKeyTerms": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "images": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "categories": [
+            "value",
+            "value",
+            "value"
+          ],
+          "id": "value"
+        },
+        {
+          "perkTermsMode": "value",
+          "perkTermsUrl": "value",
+          "perkTermsText": "value",
+          "description": "value",
+          "viewPerkImageId": "value",
+          "validity": "value",
+          "share": {
+            "title": "value",
+            "message": "value",
+            "url": "value"
+          },
+          "termsUrl": "value",
+          "info": "value",
+          "flag": "value",
+          "subdomain": "value",
+          "name": "value",
+          "channel": "value",
+          "state": "value",
+          "perkType": "value",
+          "gridImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "heroImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "viewPerkImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "positiveKeyTerms": [
+            "value"
+          ],
+          "negativeKeyTerms": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "images": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "categories": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "id": "value"
+        },
+        {
+          "perkTermsMode": "value",
+          "perkTermsUrl": "value",
+          "perkTermsText": "value",
+          "description": "value",
+          "viewPerkImageId": "value",
+          "validity": "value",
+          "share": {
+            "title": "value",
+            "message": "value",
+            "url": "value"
+          },
+          "termsUrl": "value",
+          "info": "value",
+          "flag": "value",
+          "subdomain": "value",
+          "name": "value",
+          "channel": "value",
+          "state": "value",
+          "perkType": "value",
+          "gridImages": [],
+          "heroImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "viewPerkImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "positiveKeyTerms": [],
+          "negativeKeyTerms": [
+            "value"
+          ],
+          "images": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "categories": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "id": "value"
+        },
+        {
+          "perkTermsMode": "value",
+          "perkTermsUrl": "value",
+          "perkTermsText": "value",
+          "description": "value",
+          "viewPerkImageId": "value",
+          "validity": "value",
+          "share": {
+            "title": "value",
+            "message": "value",
+            "url": "value"
+          },
+          "termsUrl": "value",
+          "info": "value",
+          "flag": "value",
+          "subdomain": "value",
+          "name": "value",
+          "channel": "value",
+          "state": "value",
+          "perkType": "value",
+          "gridImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "heroImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "viewPerkImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "positiveKeyTerms": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "negativeKeyTerms": [
+            "value"
+          ],
+          "images": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "categories": [
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "id": "value"
+        },
+        {
+          "perkTermsMode": "value",
+          "perkTermsUrl": "value",
+          "perkTermsText": "value",
+          "description": "value",
+          "viewPerkImageId": "value",
+          "validity": "value",
+          "share": {
+            "title": "value",
+            "message": "value",
+            "url": "value"
+          },
+          "termsUrl": "value",
+          "info": "value",
+          "flag": "value",
+          "subdomain": "value",
+          "name": "value",
+          "channel": "value",
+          "state": "value",
+          "perkType": "value",
+          "gridImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "heroImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "viewPerkImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "positiveKeyTerms": [
+            "value",
+            "value",
+            "value"
+          ],
+          "negativeKeyTerms": [
+            "value",
+            "value"
+          ],
+          "images": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "categories": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "id": "value"
+        },
+        {
+          "perkTermsMode": "value",
+          "perkTermsUrl": "value",
+          "perkTermsText": "value",
+          "description": "value",
+          "viewPerkImageId": "value",
+          "validity": "value",
+          "share": {
+            "title": "value",
+            "message": "value",
+            "url": "value"
+          },
+          "termsUrl": "value",
+          "info": "value",
+          "flag": "value",
+          "subdomain": "value",
+          "name": "value",
+          "channel": "value",
+          "state": "value",
+          "perkType": "value",
+          "gridImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "heroImages": [],
+          "viewPerkImages": [],
+          "positiveKeyTerms": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "negativeKeyTerms": [],
+          "images": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "categories": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "id": "value"
+        },
+        {
+          "perkTermsMode": "value",
+          "perkTermsUrl": "value",
+          "perkTermsText": "value",
+          "description": "value",
+          "viewPerkImageId": "value",
+          "validity": "value",
+          "share": {
+            "title": "value",
+            "message": "value",
+            "url": "value"
+          },
+          "termsUrl": "value",
+          "info": "value",
+          "flag": "value",
+          "subdomain": "value",
+          "name": "value",
+          "channel": "value",
+          "state": "value",
+          "perkType": "value",
+          "gridImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "heroImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "viewPerkImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "positiveKeyTerms": [
+            "value",
+            "value",
+            "value"
+          ],
+          "negativeKeyTerms": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "images": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "categories": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ],
+          "id": "value"
+        },
+        {
+          "perkTermsMode": "value",
+          "perkTermsUrl": "value",
+          "perkTermsText": "value",
+          "description": "value",
+          "viewPerkImageId": "value",
+          "validity": "value",
+          "share": {
+            "title": "value",
+            "message": "value",
+            "url": "value"
+          },
+          "termsUrl": "value",
+          "info": "value",
+          "flag": "value",
+          "subdomain": "value",
+          "name": "value",
+          "channel": "value",
+          "state": "value",
+          "perkType": "value",
+          "gridImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "heroImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "viewPerkImages": [
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            },
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "positiveKeyTerms": [
+            "value"
+          ],
+          "negativeKeyTerms": [
+            "value"
+          ],
+          "images": [
+            {
+              "id": "value",
+              "sex": "value"
+            }
+          ],
+          "categories": [
+            "value",
+            "value"
+          ],
+          "id": "value"
+        }
+      ],
+      "customSlides": [],
+      "relatedTo": [
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value"
+      ],
+      "stocks": [
+        "value",
+        "value",
+        "value"
+      ],
+      "similarTo": [
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value",
+        "value"
+      ],
+      "perkChannels": "value",
+      "perkStates": "value"
+    }
+  ],
+  "lists": [
+    {
+      "id": "value",
+      "title": "value",
+      "trackingName": "value",
+      "onlineTileChannel": {
+        "tiles": [
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": []
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          }
+        ],
+        "heroes": [
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": []
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          }
+        ]
+      },
+      "instoreTileChannel": {
+        "tiles": [
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          }
+        ],
+        "heroes": [
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": []
+          }
+        ]
+      },
+      "homeTileChannel": {
+        "tiles": [
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value"
+            ]
+          }
+        ],
+        "heroes": [
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": []
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "countries": [
+    {
+      "id": "value",
+      "name": "value",
+      "regionId": "value",
+      "cultureCode": "value",
+      "termsAgreementMode": "value"
+    },
+    {
+      "id": "value",
+      "name": "value",
+      "regionId": "value",
+      "cultureCode": "value",
+      "termsAgreementMode": "value"
+    },
+    {
+      "id": "value",
+      "name": "value",
+      "regionId": "value",
+      "cultureCode": "value",
+      "termsAgreementMode": "value"
+    },
+    {
+      "id": "value",
+      "name": "value",
+      "regionId": "value",
+      "cultureCode": "value",
+      "termsAgreementMode": "value"
+    },
+    {
+      "id": "value",
+      "name": "value",
+      "regionId": "value",
+      "cultureCode": "value",
+      "termsAgreementMode": "value"
+    },
+    {
+      "id": "value",
+      "name": "value",
+      "regionId": "value",
+      "cultureCode": "value",
+      "termsAgreementMode": "value"
+    },
+    {
+      "id": "value",
+      "name": "value",
+      "regionId": "value",
+      "cultureCode": "value",
+      "termsAgreementMode": "value"
+    },
+    {
+      "id": "value",
+      "name": "value",
+      "regionId": "value",
+      "cultureCode": "value",
+      "termsAgreementMode": "value"
+    }
+  ],
+  "customerKnownIssues": [],
+  "systemKnownIssues": [],
+  "promoBar": [
+    {
+      "link": "value",
+      "linkBehaviour": "value",
+      "position": {
+        "m": "value",
+        "f": "value",
+        "a": "value"
+      },
+      "title": "value",
+      "subtitle": "value",
+      "titleColour": "value",
+      "subtitleColour": "value",
+      "backgroundColour": "value",
+      "trackingAction": "value",
+      "trackingLabel": "value",
+      "id": "value"
+    },
+    {
+      "link": "value",
+      "linkBehaviour": "value",
+      "position": {
+        "m": "value",
+        "f": "value",
+        "a": "value"
+      },
+      "title": "value",
+      "subtitle": "value",
+      "titleColour": "value",
+      "subtitleColour": "value",
+      "backgroundColour": "value",
+      "trackingAction": "value",
+      "trackingLabel": "value",
+      "id": "value"
+    },
+    {
+      "link": "value",
+      "linkBehaviour": "value",
+      "position": {
+        "m": "value",
+        "f": "value",
+        "a": "value"
+      },
+      "title": "value",
+      "subtitle": "value",
+      "titleColour": "value",
+      "subtitleColour": "value",
+      "backgroundColour": "value",
+      "trackingAction": "value",
+      "trackingLabel": "value",
+      "id": "value"
+    },
+    {
+      "link": "value",
+      "linkBehaviour": "value",
+      "position": {
+        "m": "value",
+        "f": "value",
+        "a": "value"
+      },
+      "title": "value",
+      "subtitle": "value",
+      "titleColour": "value",
+      "subtitleColour": "value",
+      "backgroundColour": "value",
+      "trackingAction": "value",
+      "trackingLabel": "value",
+      "id": "value"
+    },
+    {
+      "link": "value",
+      "linkBehaviour": "value",
+      "position": {
+        "m": "value",
+        "f": "value",
+        "a": "value"
+      },
+      "title": "value",
+      "subtitle": "value",
+      "titleColour": "value",
+      "subtitleColour": "value",
+      "backgroundColour": "value",
+      "trackingAction": "value",
+      "trackingLabel": "value",
+      "id": "value"
+    },
+    {
+      "link": "value",
+      "linkBehaviour": "value",
+      "position": {
+        "m": "value",
+        "f": "value",
+        "a": "value"
+      },
+      "title": "value",
+      "subtitle": "value",
+      "titleColour": "value",
+      "subtitleColour": "value",
+      "backgroundColour": "value",
+      "trackingAction": "value",
+      "trackingLabel": "value",
+      "id": "value"
+    },
+    {
+      "link": "value",
+      "linkBehaviour": "value",
+      "position": {
+        "m": "value",
+        "f": "value",
+        "a": "value"
+      },
+      "title": "value",
+      "subtitle": "value",
+      "titleColour": "value",
+      "subtitleColour": "value",
+      "backgroundColour": "value",
+      "trackingAction": "value",
+      "trackingLabel": "value",
+      "id": "value"
+    },
+    {
+      "link": "value",
+      "linkBehaviour": "value",
+      "position": {
+        "m": "value",
+        "f": "value",
+        "a": "value"
+      },
+      "title": "value",
+      "subtitle": "value",
+      "titleColour": "value",
+      "subtitleColour": "value",
+      "backgroundColour": "value",
+      "trackingAction": "value",
+      "trackingLabel": "value",
+      "id": "value"
+    }
+  ],
+  "categories": [
+    {
+      "heroes": {
+        "online": [
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": []
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": []
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          }
+        ],
+        "instore": [
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": []
+          }
+        ],
+        "all": []
+      },
+      "colour": "value",
+      "title": "value",
+      "filter": "value",
+      "trackingName": "value",
+      "children": [
+        {
+          "heroes": {
+            "online": [
+              {
+                "customerId": "value",
+                "id": "value",
+                "type": "value",
+                "position": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "size": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "categories": [
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value"
+                ]
+              },
+              {
+                "customerId": "value",
+                "id": "value",
+                "type": "value",
+                "position": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "size": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "categories": [
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value"
+                ]
+              },
+              {
+                "customerId": "value",
+                "id": "value",
+                "type": "value",
+                "position": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "size": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "categories": []
+              },
+              {
+                "customerId": "value",
+                "id": "value",
+                "type": "value",
+                "position": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "size": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "categories": []
+              },
+              {
+                "customerId": "value",
+                "id": "value",
+                "type": "value",
+                "position": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "size": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "categories": [
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value"
+                ]
+              }
+            ],
+            "instore": [
+              {
+                "customerId": "value",
+                "id": "value",
+                "type": "value",
+                "position": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "size": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "categories": [
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value"
+                ]
+              }
+            ],
+            "all": [
+              {
+                "customerId": "value",
+                "id": "value",
+                "type": "value",
+                "position": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "size": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "categories": [
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value"
+                ]
+              },
+              {
+                "customerId": "value",
+                "id": "value",
+                "type": "value",
+                "position": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "size": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "categories": [
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value"
+                ]
+              },
+              {
+                "customerId": "value",
+                "id": "value",
+                "type": "value",
+                "position": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "size": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "categories": [
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value"
+                ]
+              },
+              {
+                "customerId": "value",
+                "id": "value",
+                "type": "value",
+                "position": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "size": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "categories": []
+              },
+              {
+                "customerId": "value",
+                "id": "value",
+                "type": "value",
+                "position": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "size": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "categories": [
+                  "value",
+                  "value"
+                ]
+              }
+            ]
+          },
+          "colour": "value",
+          "title": "value",
+          "filter": "value",
+          "trackingName": "value",
+          "children": [],
+          "isHidden": "value",
+          "TopTiles": []
+        },
+        {
+          "heroes": {
+            "online": [
+              {
+                "customerId": "value",
+                "id": "value",
+                "type": "value",
+                "position": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "size": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "categories": [
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value"
+                ]
+              },
+              {
+                "customerId": "value",
+                "id": "value",
+                "type": "value",
+                "position": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "size": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "categories": [
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value"
+                ]
+              },
+              {
+                "customerId": "value",
+                "id": "value",
+                "type": "value",
+                "position": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "size": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "categories": [
+                  "value",
+                  "value"
+                ]
+              }
+            ],
+            "instore": [
+              {
+                "customerId": "value",
+                "id": "value",
+                "type": "value",
+                "position": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "size": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "categories": [
+                  "value",
+                  "value",
+                  "value"
+                ]
+              },
+              {
+                "customerId": "value",
+                "id": "value",
+                "type": "value",
+                "position": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "size": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "categories": [
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value"
+                ]
+              },
+              {
+                "customerId": "value",
+                "id": "value",
+                "type": "value",
+                "position": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "size": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "categories": [
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value"
+                ]
+              },
+              {
+                "customerId": "value",
+                "id": "value",
+                "type": "value",
+                "position": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "size": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "categories": [
+                  "value",
+                  "value"
+                ]
+              },
+              {
+                "customerId": "value",
+                "id": "value",
+                "type": "value",
+                "position": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "size": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "categories": [
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value"
+                ]
+              },
+              {
+                "customerId": "value",
+                "id": "value",
+                "type": "value",
+                "position": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "size": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "categories": [
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value"
+                ]
+              },
+              {
+                "customerId": "value",
+                "id": "value",
+                "type": "value",
+                "position": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "size": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "categories": [
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value"
+                ]
+              },
+              {
+                "customerId": "value",
+                "id": "value",
+                "type": "value",
+                "position": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "size": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "categories": [
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value"
+                ]
+              }
+            ],
+            "all": [
+              {
+                "customerId": "value",
+                "id": "value",
+                "type": "value",
+                "position": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "size": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "categories": [
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value"
+                ]
+              },
+              {
+                "customerId": "value",
+                "id": "value",
+                "type": "value",
+                "position": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "size": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "categories": [
+                  "value"
+                ]
+              },
+              {
+                "customerId": "value",
+                "id": "value",
+                "type": "value",
+                "position": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "size": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "categories": [
+                  "value",
+                  "value",
+                  "value"
+                ]
+              },
+              {
+                "customerId": "value",
+                "id": "value",
+                "type": "value",
+                "position": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "size": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "categories": [
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value"
+                ]
+              },
+              {
+                "customerId": "value",
+                "id": "value",
+                "type": "value",
+                "position": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "size": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "categories": [
+                  "value",
+                  "value",
+                  "value",
+                  "value"
+                ]
+              },
+              {
+                "customerId": "value",
+                "id": "value",
+                "type": "value",
+                "position": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "size": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "categories": [
+                  "value",
+                  "value",
+                  "value",
+                  "value",
+                  "value"
+                ]
+              },
+              {
+                "customerId": "value",
+                "id": "value",
+                "type": "value",
+                "position": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "size": {
+                  "m": "value",
+                  "f": "value",
+                  "a": "value"
+                },
+                "categories": [
+                  "value",
+                  "value",
+                  "value",
+                  "value"
+                ]
+              }
+            ]
+          },
+          "colour": "value",
+          "title": "value",
+          "filter": "value",
+          "trackingName": "value",
+          "children": [],
+          "isHidden": "value",
+          "TopTiles": [
+            {
+              "customerId": "value",
+              "id": "value",
+              "type": "value",
+              "position": {
+                "m": "value",
+                "f": "value",
+                "a": "value"
+              },
+              "size": {
+                "m": "value",
+                "f": "value",
+                "a": "value"
+              },
+              "categories": [
+                "value",
+                "value",
+                "value",
+                "value",
+                "value",
+                "value"
+              ]
+            },
+            {
+              "customerId": "value",
+              "id": "value",
+              "type": "value",
+              "position": {
+                "m": "value",
+                "f": "value",
+                "a": "value"
+              },
+              "size": {
+                "m": "value",
+                "f": "value",
+                "a": "value"
+              },
+              "categories": [
+                "value",
+                "value",
+                "value"
+              ]
+            },
+            {
+              "customerId": "value",
+              "id": "value",
+              "type": "value",
+              "position": {
+                "m": "value",
+                "f": "value",
+                "a": "value"
+              },
+              "size": {
+                "m": "value",
+                "f": "value",
+                "a": "value"
+              },
+              "categories": [
+                "value",
+                "value"
+              ]
+            },
+            {
+              "customerId": "value",
+              "id": "value",
+              "type": "value",
+              "position": {
+                "m": "value",
+                "f": "value",
+                "a": "value"
+              },
+              "size": {
+                "m": "value",
+                "f": "value",
+                "a": "value"
+              },
+              "categories": [
+                "value",
+                "value",
+                "value"
+              ]
+            },
+            {
+              "customerId": "value",
+              "id": "value",
+              "type": "value",
+              "position": {
+                "m": "value",
+                "f": "value",
+                "a": "value"
+              },
+              "size": {
+                "m": "value",
+                "f": "value",
+                "a": "value"
+              },
+              "categories": [
+                "value",
+                "value",
+                "value",
+                "value",
+                "value",
+                "value",
+                "value",
+                "value",
+                "value"
+              ]
+            },
+            {
+              "customerId": "value",
+              "id": "value",
+              "type": "value",
+              "position": {
+                "m": "value",
+                "f": "value",
+                "a": "value"
+              },
+              "size": {
+                "m": "value",
+                "f": "value",
+                "a": "value"
+              },
+              "categories": [
+                "value",
+                "value",
+                "value",
+                "value",
+                "value",
+                "value",
+                "value"
+              ]
+            },
+            {
+              "customerId": "value",
+              "id": "value",
+              "type": "value",
+              "position": {
+                "m": "value",
+                "f": "value",
+                "a": "value"
+              },
+              "size": {
+                "m": "value",
+                "f": "value",
+                "a": "value"
+              },
+              "categories": [
+                "value"
+              ]
+            },
+            {
+              "customerId": "value",
+              "id": "value",
+              "type": "value",
+              "position": {
+                "m": "value",
+                "f": "value",
+                "a": "value"
+              },
+              "size": {
+                "m": "value",
+                "f": "value",
+                "a": "value"
+              },
+              "categories": [
+                "value",
+                "value",
+                "value",
+                "value",
+                "value",
+                "value",
+                "value"
+              ]
+            },
+            {
+              "customerId": "value",
+              "id": "value",
+              "type": "value",
+              "position": {
+                "m": "value",
+                "f": "value",
+                "a": "value"
+              },
+              "size": {
+                "m": "value",
+                "f": "value",
+                "a": "value"
+              },
+              "categories": [
+                "value",
+                "value",
+                "value",
+                "value",
+                "value",
+                "value",
+                "value",
+                "value",
+                "value",
+                "value"
+              ]
+            }
+          ]
+        }
+      ],
+      "isHidden": "value",
+      "TopTiles": [
+        {
+          "customerId": "value",
+          "id": "value",
+          "type": "value",
+          "position": {
+            "m": "value",
+            "f": "value",
+            "a": "value"
+          },
+          "size": {
+            "m": "value",
+            "f": "value",
+            "a": "value"
+          },
+          "categories": [
+            "value",
+            "value",
+            "value",
+            "value"
+          ]
+        }
+      ]
+    },
+    {
+      "heroes": {
+        "online": [
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": []
+          }
+        ],
+        "instore": [
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": []
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          }
+        ],
+        "all": [
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": []
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          },
+          {
+            "customerId": "value",
+            "id": "value",
+            "type": "value",
+            "position": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "size": {
+              "m": "value",
+              "f": "value",
+              "a": "value"
+            },
+            "categories": [
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value",
+              "value"
+            ]
+          }
+        ]
+      },
+      "colour": "value",
+      "title": "value",
+      "filter": "value",
+      "trackingName": "value",
+      "children": [],
+      "isHidden": "value",
+      "TopTiles": [
+        {
+          "customerId": "value",
+          "id": "value",
+          "type": "value",
+          "position": {
+            "m": "value",
+            "f": "value",
+            "a": "value"
+          },
+          "size": {
+            "m": "value",
+            "f": "value",
+            "a": "value"
+          },
+          "categories": [
+            "value",
+            "value",
+            "value"
+          ]
+        },
+        {
+          "customerId": "value",
+          "id": "value",
+          "type": "value",
+          "position": {
+            "m": "value",
+            "f": "value",
+            "a": "value"
+          },
+          "size": {
+            "m": "value",
+            "f": "value",
+            "a": "value"
+          },
+          "categories": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ]
+        },
+        {
+          "customerId": "value",
+          "id": "value",
+          "type": "value",
+          "position": {
+            "m": "value",
+            "f": "value",
+            "a": "value"
+          },
+          "size": {
+            "m": "value",
+            "f": "value",
+            "a": "value"
+          },
+          "categories": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ]
+        },
+        {
+          "customerId": "value",
+          "id": "value",
+          "type": "value",
+          "position": {
+            "m": "value",
+            "f": "value",
+            "a": "value"
+          },
+          "size": {
+            "m": "value",
+            "f": "value",
+            "a": "value"
+          },
+          "categories": [
+            "value"
+          ]
+        },
+        {
+          "customerId": "value",
+          "id": "value",
+          "type": "value",
+          "position": {
+            "m": "value",
+            "f": "value",
+            "a": "value"
+          },
+          "size": {
+            "m": "value",
+            "f": "value",
+            "a": "value"
+          },
+          "categories": [
+            "value",
+            "value",
+            "value",
+            "value"
+          ]
+        },
+        {
+          "customerId": "value",
+          "id": "value",
+          "type": "value",
+          "position": {
+            "m": "value",
+            "f": "value",
+            "a": "value"
+          },
+          "size": {
+            "m": "value",
+            "f": "value",
+            "a": "value"
+          },
+          "categories": [
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value",
+            "value"
+          ]
+        }
+      ]
+    }
+  ]
+}

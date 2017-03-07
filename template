@@ -1,6 +1,6 @@
 {
     homePages: {
-        heroes: [ '{{repeat(1)}}',
+        heroes: [ '{{repeat(0)}}',
             {
                 customerId: function (tags) {return 'value';},
                 id: function (tags) {return 'value';},
@@ -11,7 +11,7 @@
                     a: function (tags) {return 'value';}
                 }
             }],
-        lists: [ '{{repeat(1)}}',
+        lists: [ '{{repeat(0)}}',
 			{
 				listId: function (tags) {return 'value';},
 				size: function (tags) {return 'value';},
@@ -22,19 +22,19 @@
 	searchPlaceholder: function (tags) {return 'value';},
     searchNoSearchResults: {
 		title: function (tags) {return 'value';},
-		content: [ '{{repeat(1)}}',
+		content: [ '{{repeat(0)}}',
 			{
 				id: function (tags) {return 'value';},
 				type: function (tags) {return 'value';}
 			}]
 	},
-    customSearchResults: [ '{{repeat(1)}}',
+    customSearchResults: [ '{{repeat(0)}}',
         {
             id: function (tags) {return 'value';},
             searchTitle: function (tags) {return 'value';},
             searchSubTitle: function (tags) {return 'value';},
             link: function (tags) {return 'value';},
-            aliases: [ '{{repeat(1)}}',
+            aliases: [ '{{repeat(0)}}',
                 function (tags) {return 'value';}
             ],
             imageUrl: function (tags) {return 'value';},
@@ -47,19 +47,19 @@
         defaultRewardsAmount: function (tags) {return 'value';},
         registrationTermsAgreement: function (tags) {return 'value';}
     },
-    customers: [ '{{repeat(1)}}',
+    customers: [ '{{repeat(0)}}',
     {
         id: function (tags) {return 'value';},
         name: function (tags) {return 'value';},
         description:function (tags) {return 'value';},
         displayUrl: function (tags) {return 'value';},
         searchSubtitle: function (tags) {return 'value';},
-        aliases: [ '{{repeat(1)}}',
+        aliases: [ '{{repeat(0)}}',
             function (tags) {return 'value';}
         ],
         availableLogoId: function (tags) {return 'value';},
         comingSoonLogoId: function (tags) {return 'value';},
-        perks: [ '{{repeat(1)}}',
+        perks: [ '{{repeat(0)}}',
             {
                 perkTermsMode: function (tags) {return 'value';},
                 perkTermsUrl:function (tags) {return 'value';},
@@ -80,28 +80,28 @@
                 channel: function (tags) {return 'value';},
                 state: function (tags) {return 'value';},
                 perkType: function (tags) {return 'value';},
-                gridImages: [ '{{repeat(1)}}',
+                gridImages: [ '{{repeat(0)}}',
                     {
 						id: function (tags) {return 'value';},
 						sex: function (tags) {return 'value';}
 					}
                 ],
-                heroImages: [ '{{repeat(1)}}',
+                heroImages: [ '{{repeat(0)}}',
                     {
 						id: function (tags) {return 'value';},
 						sex: function (tags) {return 'value';}
 					}
                 ],
-                viewPerkImages: [ '{{repeat(1)}}',
+                viewPerkImages: [ '{{repeat(0)}}',
                     {
 						id: function (tags) {return 'value';},
 						sex: function (tags) {return 'value';}
 					}
                 ],
-                positiveKeyTerms: [ '{{repeat(1)}}',
+                positiveKeyTerms: [ '{{repeat(0)}}',
                                    function (tags) {return 'value';}
                 ],
-                negativeKeyTerms: [ '{{repeat(1)}}',
+                negativeKeyTerms: [ '{{repeat(0)}}',
                                    function (tags) {return 'value';}
                 ],
                 images: [
@@ -110,7 +110,7 @@
                         sex: function (tags) {return 'value';}
                     }
                 ],
-                categories: [ '{{repeat(1)}}',
+                categories: [ '{{repeat(0)}}',
                     function (tags) {return 'value';}
                 ],
                 id: function (tags) {return 'value';}
@@ -119,13 +119,13 @@
         customSlides: [
             
         ],
-        relatedTo: [ '{{repeat(1)}}',
+        relatedTo: [ '{{repeat(0)}}',
             function (tags) {return 'value';}
         ],
-        stocks: [ '{{repeat(1)}}',
+        stocks: [ '{{repeat(0)}}',
                     function (tags) {return 'value';}
         ],
-        similarTo: [ '{{repeat(1)}}',
+        similarTo: [ '{{repeat(0)}}',
                     function (tags) {return 'value';}
         ],
         perkChannels: function (tags) {return 'value';},
@@ -138,7 +138,7 @@
             title: function (tags) {return 'value';},
             trackingName: function (tags) {return 'value';},
             onlineTileChannel: {
-                tiles: [ '{{repeat(1)}}',
+                tiles: [ '{{repeat(0)}}',
                     {
                         customerId: function (tags) {return 'value';},
                         id: function (tags) {return 'value';},
@@ -153,12 +153,12 @@
                             f: function (tags) {return 'value';},
                             a: function (tags) {return 'value';}
                         },
-                        categories: ['{{repeat(1)}}',
+                        categories: ['{{repeat(0)}}',
                             function (tags) {return 'value';}
                         ]
                     }
                 ],
-                heroes: [ '{{repeat(1)}}',
+                heroes: [ '{{repeat(0)}}',
                     {
                         customerId: function (tags) {return 'value';},
                         id: function (tags) {return 'value';},
@@ -173,14 +173,14 @@
                             f: function (tags) {return 'value';},
                             a: function (tags) {return 'value';}
                         },
-                      	categories: ['{{repeat(1)}}',
+                      	categories: ['{{repeat(0)}}',
                             function (tags) {return 'value';}
                         ]
                     }
                 ]
             },
             instoreTileChannel: {
-                tiles: [ '{{repeat(1)}}',
+                tiles: [ '{{repeat(0)}}',
                     {
                         customerId: function (tags) {return 'value';},
                         id: function (tags) {return 'value';},
@@ -195,12 +195,12 @@
                             f: function (tags) {return 'value';},
                             a: function (tags) {return 'value';}
                         },
-                        categories: ['{{repeat(1)}}',
+                        categories: ['{{repeat(0)}}',
                             function (tags) {return 'value';}
                         ]
                     }
                 ],
-                heroes: [ '{{repeat(1)}}',
+                heroes: [ '{{repeat(0)}}',
                     {
                         customerId: function (tags) {return 'value';},
                         id: function (tags) {return 'value';},
@@ -215,14 +215,14 @@
                             f: function (tags) {return 'value';},
                             a: function (tags) {return 'value';}
                         },
-                      	categories: ['{{repeat(1)}}',
+                      	categories: ['{{repeat(0)}}',
                             function (tags) {return 'value';}
                         ]
                     }
                 ]
             },
             homeTileChannel: {
-                tiles: [ '{{repeat(1)}}',
+                tiles: [ '{{repeat(0)}}',
                     {
                         customerId: function (tags) {return 'value';},
                         id: function (tags) {return 'value';},
@@ -237,12 +237,12 @@
                             f: function (tags) {return 'value';},
                             a: function (tags) {return 'value';}
                         },
-                        categories: ['{{repeat(1)}}',
+                        categories: ['{{repeat(0)}}',
                             function (tags) {return 'value';}
                         ]
                     }
                 ],
-                heroes: [ '{{repeat(1)}}',
+                heroes: [ '{{repeat(0)}}',
                     {
                         customerId: function (tags) {return 'value';},
                         id: function (tags) {return 'value';},
@@ -257,7 +257,7 @@
                             f: function (tags) {return 'value';},
                             a: function (tags) {return 'value';}
                         },
-                      	categories: ['{{repeat(1)}}',
+                      	categories: ['{{repeat(0)}}',
                             function (tags) {return 'value';}
                         ]
                     }
@@ -265,7 +265,7 @@
             }
         }
     ],
-    countries: [ '{{repeat(1)}}',
+    countries: [ '{{repeat(0)}}',
         {
             id: function (tags) {return 'value';},
             name: function (tags) {return 'value';},
@@ -276,7 +276,7 @@
     ],
     customerKnownIssues: [],
     systemKnownIssues: [],
-    promoBar: [ '{{repeat(1)}}',
+    promoBar: [ '{{repeat(0)}}',
         {
             link: function (tags) {return 'value';},
             linkBehaviour: function (tags) {return 'value';},
@@ -295,10 +295,10 @@
             id: function (tags) {return 'value';}
         }
     ],
-    categories: [ '{{repeat(1)}}',
+    categories: [ '{{repeat(0)}}',
         {
             heroes: {
-                        online: [   '{{repeat(1)}}',
+                        online: [   '{{repeat(0)}}',
                             {
                                 customerId: function (tags) {return 'value';},
                                 id: function (tags) {return 'value';},
@@ -313,12 +313,12 @@
                                     f: function (tags) {return 'value';},
                                     a: function (tags) {return 'value';}
                                 },
-                      	        categories: [ '{{repeat(1)}}',
+                      	        categories: [ '{{repeat(0)}}',
                                     function (tags) {return 'value';}
                                  ]
                             }
                         ],
-                        instore: [   '{{repeat(1)}}',
+                        instore: [   '{{repeat(0)}}',
                             {
                                 customerId: function (tags) {return 'value';},
                                 id: function (tags) {return 'value';},
@@ -333,12 +333,12 @@
                                     f: function (tags) {return 'value';},
                                     a: function (tags) {return 'value';}
                                 },
-                      	        categories: [ '{{repeat(1)}}',
+                      	        categories: [ '{{repeat(0)}}',
                                     function (tags) {return 'value';}
                                  ]
                             }
                         ],
-                        all: [   '{{repeat(1)}}',
+                        all: [   '{{repeat(0)}}',
                             {
                                 customerId: function (tags) {return 'value';},
                                 id: function (tags) {return 'value';},
@@ -353,7 +353,7 @@
                                     f: function (tags) {return 'value';},
                                     a: function (tags) {return 'value';}
                                 },
-                      	        categories: [ '{{repeat(1)}}',
+                      	        categories: [ '{{repeat(0)}}',
                                     function (tags) {return 'value';}
                                  ]
                             }
@@ -363,10 +363,10 @@
             title: function (tags) {return 'value';},
             filter: function (tags) {return 'value';},
             trackingName: function (tags) {return 'value';},
-            children: [ '{{repeat(1)}}',
+            children: [ '{{repeat(0)}}',
                 {
                     heroes: {
-                        online: [   '{{repeat(1)}}',
+                        online: [   '{{repeat(0)}}',
                             {
                                 customerId: function (tags) {return 'value';},
                                 id: function (tags) {return 'value';},
@@ -381,12 +381,12 @@
                                     f: function (tags) {return 'value';},
                                     a: function (tags) {return 'value';}
                                 },
-                      	        categories: [ '{{repeat(1)}}',
+                      	        categories: [ '{{repeat(0)}}',
                                     function (tags) {return 'value';}
                                  ]
                             }
                         ],
-                        instore: [   '{{repeat(1)}}',
+                        instore: [   '{{repeat(0)}}',
                             {
                                 customerId: function (tags) {return 'value';},
                                 id: function (tags) {return 'value';},
@@ -401,12 +401,12 @@
                                     f: function (tags) {return 'value';},
                                     a: function (tags) {return 'value';}
                                 },
-                      	        categories: [ '{{repeat(1)}}',
+                      	        categories: [ '{{repeat(0)}}',
                                     function (tags) {return 'value';}
                                  ]
                             }
                         ],
-                        all: [   '{{repeat(1)}}',
+                        all: [   '{{repeat(0)}}',
                             {
                                 customerId: function (tags) {return 'value';},
                                 id: function (tags) {return 'value';},
@@ -421,7 +421,7 @@
                                     f: function (tags) {return 'value';},
                                     a: function (tags) {return 'value';}
                                 },
-                      	        categories: [ '{{repeat(1)}}',
+                      	        categories: [ '{{repeat(0)}}',
                                     function (tags) {return 'value';}
                                  ]
                             }
@@ -433,7 +433,7 @@
                     trackingName:function (tags) {return 'value';},
                     children: [],
                     isHidden: function (tags) {return 'value';},
-                    TopTiles: [ '{{repeat(1)}}',
+                    TopTiles: [ '{{repeat(0)}}',
                         {
                             customerId: function (tags) {return 'value';},
                             id: function (tags) {return 'value';},
@@ -448,7 +448,7 @@
                                 f: function (tags) {return 'value';},
                                 a: function (tags) {return 'value';}
                             },
-                            categories: [ '{{repeat(1)}}',
+                            categories: [ '{{repeat(0)}}',
                                 function (tags) {return 'value';}
                             ]   
                         }
@@ -456,7 +456,7 @@
                 }
             ],
             isHidden: function (tags) {return 'value';},
-            TopTiles: [ '{{repeat(1)}}',
+            TopTiles: [ '{{repeat(0)}}',
                         {
                             customerId: function (tags) {return 'value';},
                             id: function (tags) {return 'value';},
@@ -471,7 +471,7 @@
                                 f: function (tags) {return 'value';},
                                 a: function (tags) {return 'value';}
                             },
-                            categories: [ '{{repeat(1)}}',
+                            categories: [ '{{repeat(0)}}',
                                 function (tags) {return 'value';}
                             ]   
                         }

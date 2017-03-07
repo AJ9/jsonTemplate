@@ -1,0 +1,423 @@
+{
+    "homePages": {
+        "heroes": [{
+            "customerId": false,
+            "id": false,
+            "type": false,
+            "position": {
+                "m": false,
+                "f": false,
+                "a": false
+            }
+        }],
+        "lists": [{
+            "listId": false,
+            "size": false,
+            "shouldShowTitle": false
+        }]
+    },
+    "searchPlaceholder": false,
+    "searchNoSearchResults": {
+        "title": false,
+        "content": [{
+            "id": false,
+            "type": false
+        }]
+    },
+    "customSearchResults": [{
+        "id": false,
+        "searchTitle": false,
+        "searchSubTitle": false,
+        "link": false,
+        "aliases": [
+            false
+        ],
+        "imageUrl": false,
+        "linkBehaviour": false
+    }],
+    "settings": {
+        "rewardsEnabled": false,
+        "blogEnabled": false,
+        "defaultRewardsAmount": false,
+        "registrationTermsAgreement": false
+    },
+    "customers": [{
+        "id": false,
+        "name": false,
+        "description": false,
+        "displayUrl": false,
+        "searchSubtitle": false,
+        "aliases": [
+            false
+        ],
+        "availableLogoId": false,
+        "comingSoonLogoId": false,
+        "perks": [{
+            "perkTermsMode": false,
+            "perkTermsUrl": false,
+            "perkTermsText": false,
+            "description": false,
+            "viewPerkImageId": false,
+            "validity": false,
+            "share": {
+                "title": false,
+                "message": false,
+                "url": false
+            },
+            "termsUrl": false,
+            "info": false,
+            "flag": false,
+            "subdomain": false,
+            "name": false,
+            "channel": false,
+            "state": false,
+            "perkType": false,
+            "gridImages": [{
+                "id": false,
+                "sex": false
+            }],
+            "heroImages": [{
+                "id": false,
+                "sex": false
+            }],
+            "viewPerkImages": [{
+                "id": false,
+                "sex": false
+            }],
+            "positiveKeyTerms": [
+                false
+            ],
+            "negativeKeyTerms": [
+                false
+            ],
+            "images": [{
+                "id": false,
+                "sex": false
+            }],
+            "categories": [
+                false
+            ],
+            "id": false
+        }],
+        "customSlides": [],
+        "relatedTo": [
+            false
+        ],
+        "stocks": [
+            false
+        ],
+        "similarTo": [
+            false
+        ],
+        "perkChannels": false,
+        "perkStates": false
+    }],
+    "lists": [{
+        "id": false,
+        "title": false,
+        "trackingName": false,
+        "onlineTileChannel": {
+            "tiles": [{
+                "customerId": false,
+                "id": false,
+                "type": false,
+                "position": {
+                    "m": false,
+                    "f": false,
+                    "a": false
+                },
+                "size": {
+                    "m": false,
+                    "f": false,
+                    "a": false
+                },
+                "categories": [
+                    false
+                ]
+            }],
+            "heroes": [{
+                "customerId": false,
+                "id": false,
+                "type": false,
+                "position": {
+                    "m": false,
+                    "f": false,
+                    "a": false
+                },
+                "size": {
+                    "m": false,
+                    "f": false,
+                    "a": false
+                },
+                "categories": [
+                    false
+                ]
+            }]
+        },
+        "instoreTileChannel": {
+            "tiles": [{
+                "customerId": false,
+                "id": false,
+                "type": false,
+                "position": {
+                    "m": false,
+                    "f": false,
+                    "a": false
+                },
+                "size": {
+                    "m": false,
+                    "f": false,
+                    "a": false
+                },
+                "categories": [
+                    false
+                ]
+            }],
+            "heroes": [{
+                "customerId": false,
+                "id": false,
+                "type": false,
+                "position": {
+                    "m": false,
+                    "f": false,
+                    "a": false
+                },
+                "size": {
+                    "m": false,
+                    "f": false,
+                    "a": false
+                },
+                "categories": [
+                    false
+                ]
+            }]
+        },
+        "homeTileChannel": {
+            "tiles": [{
+                "customerId": false,
+                "id": false,
+                "type": false,
+                "position": {
+                    "m": false,
+                    "f": false,
+                    "a": false
+                },
+                "size": {
+                    "m": false,
+                    "f": false,
+                    "a": false
+                },
+                "categories": [
+                    false
+                ]
+            }],
+            "heroes": [{
+                "customerId": false,
+                "id": false,
+                "type": false,
+                "position": {
+                    "m": false,
+                    "f": false,
+                    "a": false
+                },
+                "size": {
+                    "m": false,
+                    "f": false,
+                    "a": false
+                },
+                "categories": [
+                    false
+                ]
+            }]
+        }
+    }],
+    "countries": [{
+        "id": false,
+        "name": false,
+        "regionId": false,
+        "cultureCode": false,
+        "termsAgreementMode": false
+    }],
+    "customerKnownIssues": [],
+    "systemKnownIssues": [],
+    "promoBar": [{
+        "link": false,
+        "linkBehaviour": false,
+        "position": {
+            "m": false,
+            "f": false,
+            "a": false
+        },
+        "title": false,
+        "subtitle": false,
+        "titleColour": false,
+        "subtitleColour": false,
+        "backgroundColour": false,
+        "trackingAction": false,
+        "trackingLabel": false,
+        "id": false
+    }],
+    "categories": [{
+        "heroes": {
+            "online": [{
+                "customerId": false,
+                "id": false,
+                "type": false,
+                "position": {
+                    "m": false,
+                    "f": false,
+                    "a": false
+                },
+                "size": {
+                    "m": false,
+                    "f": false,
+                    "a": false
+                },
+                "categories": [
+                    false
+                ]
+            }],
+            "instore": [{
+                "customerId": false,
+                "id": false,
+                "type": false,
+                "position": {
+                    "m": false,
+                    "f": false,
+                    "a": false
+                },
+                "size": {
+                    "m": false,
+                    "f": false,
+                    "a": false
+                },
+                "categories": [
+                    false
+                ]
+            }],
+            "all": [{
+                "customerId": false,
+                "id": false,
+                "type": false,
+                "position": {
+                    "m": false,
+                    "f": false,
+                    "a": false
+                },
+                "size": {
+                    "m": false,
+                    "f": false,
+                    "a": false
+                },
+                "categories": [
+                    false
+                ]
+            }]
+        },
+        "colour": false,
+        "title": false,
+        "filter": false,
+        "trackingName": false,
+        "children": [{
+            "heroes": {
+                "online": [{
+                    "customerId": false,
+                    "id": false,
+                    "type": false,
+                    "position": {
+                        "m": false,
+                        "f": false,
+                        "a": false
+                    },
+                    "size": {
+                        "m": false,
+                        "f": false,
+                        "a": false
+                    },
+                    "categories": [
+                        false
+                    ]
+                }],
+                "instore": [{
+                    "customerId": false,
+                    "id": false,
+                    "type": false,
+                    "position": {
+                        "m": false,
+                        "f": false,
+                        "a": false
+                    },
+                    "size": {
+                        "m": false,
+                        "f": false,
+                        "a": false
+                    },
+                    "categories": [
+                        false
+                    ]
+                }],
+                "all": [{
+                    "customerId": false,
+                    "id": false,
+                    "type": false,
+                    "position": {
+                        "m": false,
+                        "f": false,
+                        "a": false
+                    },
+                    "size": {
+                        "m": false,
+                        "f": false,
+                        "a": false
+                    },
+                    "categories": [
+                        false
+                    ]
+                }]
+            },
+            "colour": false,
+            "title": false,
+            "filter": false,
+            "trackingName": false,
+            "children": [],
+            "isHidden": false,
+            "TopTiles": [{
+                "customerId": false,
+                "id": false,
+                "type": false,
+                "position": {
+                    "m": false,
+                    "f": false,
+                    "a": false
+                },
+                "size": {
+                    "m": false,
+                    "f": false,
+                    "a": false
+                },
+                "categories": [
+                    false
+                ]
+            }]
+        }],
+        "isHidden": false,
+        "TopTiles": [{
+            "customerId": false,
+            "id": false,
+            "type": false,
+            "position": {
+                "m": false,
+                "f": false,
+                "a": false
+            },
+            "size": {
+                "m": false,
+                "f": false,
+                "a": false
+            },
+            "categories": [
+                false
+            ]
+        }]
+    }]
+}

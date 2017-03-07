@@ -1,0 +1,145 @@
+{
+    homePages: {
+        heroes: [ '{{repeat(1)}}',
+            {
+                customerId: '{{guid()}}',
+                id: '{{guid()}}',
+                type: '{{integer(100, 999)}}',
+                position: {
+                    m: '{{integer(100, 999)}}',
+                    f: '{{integer(100, 999)}}',
+                    a: '{{integer(100, 999)}}'
+                }
+            }],
+        lists: [ '{{repeat(1)}}',
+			{
+				listId: '{{guid()}}',
+				size: '{{integer(100, 999)}}',
+				shouldShowTitle: '{{bool()}}'
+			}
+        ]
+    },
+	searchPlaceholder: '{{lorem([3], "words")}}',
+    searchNoSearchResults: {
+		title: '{{lorem([3], "words")}}',
+		content: [ '{{repeat(1)}}',
+			{
+				id: '{{guid()}}',
+				type: '{{integer(100, 999)}}'
+			}]
+	},
+    customSearchResults: [ '{{repeat(1)}}',
+        {
+            id: '{{guid()}}',
+            searchTitle: '{{lorem([1], "words")}}',
+            searchSubTitle: '{{lorem([1], "words")}}',
+            link: '{{lorem([1], "words")}}',
+            aliases: [ '{{repeat(1)}}',
+                '{{lorem([1], "words")}}'
+            ],
+            imageUrl: '{{lorem([1], "words")}}',
+            linkBehaviour: '{{integer(100, 999)}}'
+        }
+    ],
+    settings: {
+        rewardsEnabled: '{{bool()}}',
+        blogEnabled: '{{bool()}}',
+          defaultRewardsAmount: '{{floating()}}',
+        registrationTermsAgreement: '{{integer(100, 999)}}'
+    },
+    customers: [ '{{repeat(1)}}',
+    {
+        id: '{{guid()}}',
+        name: '{{lorem([1], "words")}}',
+        description:'{{lorem([1], "words")}}',
+        displayUrl: '{{lorem([1], "words")}}',
+        searchSubtitle: '{{lorem([1], "words")}}',
+        aliases: [ '{{repeat(1)}}',
+            '{{lorem([1], "words")}}'
+        ],
+        availableLogoId: '{{guid()}}',
+        comingSoonLogoId: '{{guid()}}',
+        perks: [ '{{repeat(1)}}',
+            {
+                perkTermsMode: '{{integer(100, 999)}}',
+                perkTermsUrl:'{{lorem([1], "words")}}',
+                perkTermsText:'{{lorem([1], "words")}}',
+                description:'{{lorem([1], "words")}}',
+                viewPerkImageId: '{{guid()}}',
+                validity: '{{lorem([1], "words")}}',
+                share: {
+                    title: '{{lorem([1], "words")}}',
+                    message:'{{lorem([1], "words")}}',
+                    url: '{{lorem([1], "words")}}'
+                },
+                termsUrl: '{{lorem([1], "words")}}',
+                info: '{{lorem([1], "words")}}',
+                flag: '{{lorem([1], "words")}}',
+                subdomain: '{{lorem([1], "words")}}',
+                name: '{{lorem([1], "words")}}',
+                channel: '{{integer(100, 999)}}',
+                state: '{{integer(100, 999)}}',
+                perkType: '{{integer(100, 999)}}',
+                gridImages: [ '{{repeat(1)}}',
+                    {
+						id: '{{guid()}}',
+						sex: '{{integer(100, 999)}}'
+					}
+                ],
+                heroImages: [ '{{repeat(1)}}',
+                    {
+						id: '{{guid()}}',
+						sex: '{{integer(100, 999)}}'
+					}
+                ],
+                viewPerkImages: [ '{{repeat(1)}}',
+                    {
+						id: '{{guid()}}',
+						sex: '{{integer(100, 999)}}'
+					}
+                ],
+                positiveKeyTerms: [ '{{repeat(1)}}',
+                                   '{{lorem([1], "words")}}'
+                ],
+                negativeKeyTerms: [ '{{repeat(1)}}',
+                                   '{{lorem([1], "words")}}'
+                ],
+                images: [
+                    {
+                        id: '{{guid()}}',
+                        sex: '{{integer(100, 999)}}'
+                    }
+                ],
+                categories: [ '{{repeat(1)}}',
+                    '{{lorem([1], "words")}}'
+                ],
+                id: '{{guid()}}'
+            }
+        ],
+        customSlides: [
+            
+        ],
+        relatedTo: [ '{{repeat(1)}}',
+            '{{guid()}}'
+        ],
+        stocks: [ '{{repeat(1)}}',
+                    '{{lorem([1], "words")}}'
+        ],
+        similarTo: [ '{{repeat(1)}}',
+                    '{{lorem([1], "words")}}'
+        ],
+        perkChannels: '{{integer(100, 999)}}',
+        perkStates: '{{integer(100, 999)}}'
+    }
+],
+lists: [
+{
+id: '{{guid()}}',
+title: '{{lorem([1], "words")}}',
+trackingName: '{{lorem([1], "words")}}',
+onlineTileChannel: {},
+instoreTileChannel: {},
+homeTileChannel: {}
+}
+]
+}

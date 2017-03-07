@@ -137,7 +137,48 @@
             id: function (tags) {return 'value';},
             title: function (tags) {return 'value';},
             trackingName: function (tags) {return 'value';},
-            onlineTileChannel: {},
+            onlineTileChannel: {
+                tiles: [ '{{repeat(1)}}',
+                    {
+                        customerId: function (tags) {return 'value';},
+                        id: function (tags) {return 'value';},
+                        type: function (tags) {return 'value';},
+                        position: {
+                            m: function (tags) {return 'value';},
+                            f: function (tags) {return 'value';},
+                            a: function (tags) {return 'value';}
+                        },
+                        size: {
+                          	m: function (tags) {return 'value';},
+                            f: function (tags) {return 'value';},
+                            a: function (tags) {return 'value';}
+                        },
+                        categories: ['{{repeat(1)}}',
+                            function (tags) {return 'value';}
+                        ]
+                    }
+                ],
+                heroes: [ '{{repeat(1)}}',
+                    {
+                        customerId: function (tags) {return 'value';},
+                        id: function (tags) {return 'value';},
+                        type: function (tags) {return 'value';},
+                        position: {
+                            m: function (tags) {return 'value';},
+                            f: function (tags) {return 'value';},
+                            a: function (tags) {return 'value';}
+                        },
+                        size: {
+      						m: function (tags) {return 'value';},
+                            f: function (tags) {return 'value';},
+                            a: function (tags) {return 'value';}
+                        },
+                      	categories: ['{{repeat(1)}}',
+                            function (tags) {return 'value';}
+                        ]
+                    }
+                ]
+            },
             instoreTileChannel: {},
             homeTileChannel: {}
         }

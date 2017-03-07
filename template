@@ -264,5 +264,35 @@
                 ]
             }
         }
+    ],
+    countries: [ '{{repeat(1)}}',
+        {
+            id: function (tags) {return 'value';},
+            name: function (tags) {return 'value';},
+            regionId: function (tags) {return 'value';},
+            cultureCode: function (tags) {return 'value';},
+            termsAgreementMode: function (tags) {return 'value';}
+        }
+    ],
+    customerKnownIssues: [],
+    systemKnownIssues: [],
+    promoBar: [ '{{repeat(1)}}',
+        {
+            link: function (tags) {return 'value';},
+            linkBehaviour: function (tags) {return 'value';},
+            position: {
+            m: function (tags) {return 'value';},
+            f: function (tags) {return 'value';},
+            a: function (tags) {return 'value';}
+            },
+            title: function (tags) {return 'value';},
+            subtitle: function (tags) {return 'value';},
+            titleColour: function (tags) {return 'value';},
+            subtitleColour: function (tags) {return 'value';},
+            backgroundColour: function (tags) {return 'value';},
+            trackingAction: function (tags) {return 'value';},
+            trackingLabel: function (tags) {return 'value';},
+            id: function (tags) {return 'value';}
+        }
     ]
 }

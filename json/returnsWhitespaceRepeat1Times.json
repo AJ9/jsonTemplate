@@ -1,422 +1,422 @@
 {
     "homePages": {
         "heroes": [{
-            "customerId": ,
-            "id": ,
-            "type": ,
+            "customerId": "",
+            "id": "",
+            "type": "",
             "position": {
-                "m": ,
-                "f": ,
-                "a":
+                "m": "",
+                "f": "",
+                "a": ""
             }
         }],
         "lists": [{
-            "listId": ,
-            "size": ,
-            "shouldShowTitle":
+            "listId": "",
+            "size": "",
+            "shouldShowTitle": ""
         }]
     },
-    "searchPlaceholder": ,
+    "searchPlaceholder": "",
     "searchNoSearchResults": {
-        "title": ,
+        "title": "",
         "content": [{
-            "id": ,
-            "type":
+            "id": "",
+            "type": ""
         }]
     },
     "customSearchResults": [{
-        "id": ,
-        "searchTitle": ,
-        "searchSubTitle": ,
-        "link": ,
+        "id": "",
+        "searchTitle": "",
+        "searchSubTitle": "",
+        "link": "",
         "aliases": [
-
+            ""
         ],
-        "imageUrl": ,
-        "linkBehaviour":
+        "imageUrl": "",
+        "linkBehaviour": ""
     }],
     "settings": {
-        "rewardsEnabled": ,
-        "blogEnabled": ,
-        "defaultRewardsAmount": ,
-        "registrationTermsAgreement":
+        "rewardsEnabled": "",
+        "blogEnabled": "",
+        "defaultRewardsAmount": "",
+        "registrationTermsAgreement": ""
     },
     "customers": [{
-        "id": ,
-        "name": ,
-        "description": ,
-        "displayUrl": ,
-        "searchSubtitle": ,
+        "id": "",
+        "name": "",
+        "description": "",
+        "displayUrl": "",
+        "searchSubtitle": "",
         "aliases": [
-
+            ""
         ],
-        "availableLogoId": ,
-        "comingSoonLogoId": ,
+        "availableLogoId": "",
+        "comingSoonLogoId": "",
         "perks": [{
-            "perkTermsMode": ,
-            "perkTermsUrl": ,
-            "perkTermsText": ,
-            "description": ,
-            "viewPerkImageId": ,
-            "validity": ,
+            "perkTermsMode": "",
+            "perkTermsUrl": "",
+            "perkTermsText": "",
+            "description": "",
+            "viewPerkImageId": "",
+            "validity": "",
             "share": {
-                "title": ,
-                "message": ,
-                "url":
+                "title": "",
+                "message": "",
+                "url": ""
             },
-            "termsUrl": ,
-            "info": ,
-            "flag": ,
-            "subdomain": ,
-            "name": ,
-            "channel": ,
-            "state": ,
-            "perkType": ,
+            "termsUrl": "",
+            "info": "",
+            "flag": "",
+            "subdomain": "",
+            "name": "",
+            "channel": "",
+            "state": "",
+            "perkType": "",
             "gridImages": [{
-                "id": ,
-                "sex":
+                "id": "",
+                "sex": ""
             }],
             "heroImages": [{
-                "id": ,
-                "sex":
+                "id": "",
+                "sex": ""
             }],
             "viewPerkImages": [{
-                "id": ,
-                "sex":
+                "id": "",
+                "sex": ""
             }],
             "positiveKeyTerms": [
-
+                ""
             ],
             "negativeKeyTerms": [
-
+                ""
             ],
             "images": [{
-                "id": ,
-                "sex":
+                "id": "",
+                "sex": ""
             }],
             "categories": [
-
+                ""
             ],
-            "id":
+            "id": ""
         }],
         "customSlides": [],
         "relatedTo": [
-
+            ""
         ],
         "stocks": [
-
+            ""
         ],
         "similarTo": [
-
+            ""
         ],
-        "perkChannels": ,
-        "perkStates":
+        "perkChannels": "",
+        "perkStates": ""
     }],
     "lists": [{
-        "id": ,
-        "title": ,
-        "trackingName": ,
+        "id": "",
+        "title": "",
+        "trackingName": "",
         "onlineTileChannel": {
             "tiles": [{
-                "customerId": ,
-                "id": ,
-                "type": ,
+                "customerId": "",
+                "id": "",
+                "type": "",
                 "position": {
-                    "m": ,
-                    "f": ,
-                    "a":
+                    "m": "",
+                    "f": "",
+                    "a": ""
                 },
                 "size": {
-                    "m": ,
-                    "f": ,
-                    "a":
+                    "m": "",
+                    "f": "",
+                    "a": ""
                 },
                 "categories": [
-
+                    ""
                 ]
             }],
             "heroes": [{
-                "customerId": ,
-                "id": ,
-                "type": ,
+                "customerId": "",
+                "id": "",
+                "type": "",
                 "position": {
-                    "m": ,
-                    "f": ,
-                    "a":
+                    "m": "",
+                    "f": "",
+                    "a": ""
                 },
                 "size": {
-                    "m": ,
-                    "f": ,
-                    "a":
+                    "m": "",
+                    "f": "",
+                    "a": ""
                 },
                 "categories": [
-
+                    ""
                 ]
             }]
         },
         "instoreTileChannel": {
             "tiles": [{
-                "customerId": ,
-                "id": ,
-                "type": ,
+                "customerId": "",
+                "id": "",
+                "type": "",
                 "position": {
-                    "m": ,
-                    "f": ,
-                    "a":
+                    "m": "",
+                    "f": "",
+                    "a": ""
                 },
                 "size": {
-                    "m": ,
-                    "f": ,
-                    "a":
+                    "m": "",
+                    "f": "",
+                    "a": ""
                 },
                 "categories": [
-
+                    ""
                 ]
             }],
             "heroes": [{
-                "customerId": ,
-                "id": ,
-                "type": ,
+                "customerId": "",
+                "id": "",
+                "type": "",
                 "position": {
-                    "m": ,
-                    "f": ,
-                    "a":
+                    "m": "",
+                    "f": "",
+                    "a": ""
                 },
                 "size": {
-                    "m": ,
-                    "f": ,
-                    "a":
+                    "m": "",
+                    "f": "",
+                    "a": ""
                 },
                 "categories": [
-
+                    ""
                 ]
             }]
         },
         "homeTileChannel": {
             "tiles": [{
-                "customerId": ,
-                "id": ,
-                "type": ,
+                "customerId": "",
+                "id": "",
+                "type": "",
                 "position": {
-                    "m": ,
-                    "f": ,
-                    "a":
+                    "m": "",
+                    "f": "",
+                    "a": ""
                 },
                 "size": {
-                    "m": ,
-                    "f": ,
-                    "a":
+                    "m": "",
+                    "f": "",
+                    "a": ""
                 },
                 "categories": [
-
+                    ""
                 ]
             }],
             "heroes": [{
-                "customerId": ,
-                "id": ,
-                "type": ,
+                "customerId": "",
+                "id": "",
+                "type": "",
                 "position": {
-                    "m": ,
-                    "f": ,
-                    "a":
+                    "m": "",
+                    "f": "",
+                    "a": ""
                 },
                 "size": {
-                    "m": ,
-                    "f": ,
-                    "a":
+                    "m": "",
+                    "f": "",
+                    "a": ""
                 },
                 "categories": [
-
+                    ""
                 ]
             }]
         }
     }],
     "countries": [{
-        "id": ,
-        "name": ,
-        "regionId": ,
-        "cultureCode": ,
-        "termsAgreementMode":
+        "id": "",
+        "name": "",
+        "regionId": "",
+        "cultureCode": "",
+        "termsAgreementMode": ""
     }],
     "customerKnownIssues": [],
     "systemKnownIssues": [],
     "promoBar": [{
-        "link": ,
-        "linkBehaviour": ,
+        "link": "",
+        "linkBehaviour": "",
         "position": {
-            "m": ,
-            "f": ,
-            "a":
+            "m": "",
+            "f": "",
+            "a": ""
         },
-        "title": ,
-        "subtitle": ,
-        "titleColour": ,
-        "subtitleColour": ,
-        "backgroundColour": ,
-        "trackingAction": ,
-        "trackingLabel": ,
-        "id":
+        "title": "",
+        "subtitle": "",
+        "titleColour": "",
+        "subtitleColour": "",
+        "backgroundColour": "",
+        "trackingAction": "",
+        "trackingLabel": "",
+        "id": ""
     }],
     "categories": [{
         "heroes": {
             "online": [{
-                "customerId": ,
-                "id": ,
-                "type": ,
+                "customerId": "",
+                "id": "",
+                "type": "",
                 "position": {
-                    "m": ,
-                    "f": ,
-                    "a":
+                    "m": "",
+                    "f": "",
+                    "a": ""
                 },
                 "size": {
-                    "m": ,
-                    "f": ,
-                    "a":
+                    "m": "",
+                    "f": "",
+                    "a": ""
                 },
                 "categories": [
-
+                    ""
                 ]
             }],
             "instore": [{
-                "customerId": ,
-                "id": ,
-                "type": ,
+                "customerId": "",
+                "id": "",
+                "type": "",
                 "position": {
-                    "m": ,
-                    "f": ,
-                    "a":
+                    "m": "",
+                    "f": "",
+                    "a": ""
                 },
                 "size": {
-                    "m": ,
-                    "f": ,
-                    "a":
+                    "m": "",
+                    "f": "",
+                    "a": ""
                 },
                 "categories": [
-
+                    ""
                 ]
             }],
             "all": [{
-                "customerId": ,
-                "id": ,
-                "type": ,
+                "customerId": "",
+                "id": "",
+                "type": "",
                 "position": {
-                    "m": ,
-                    "f": ,
-                    "a":
+                    "m": "",
+                    "f": "",
+                    "a": ""
                 },
                 "size": {
-                    "m": ,
-                    "f": ,
-                    "a":
+                    "m": "",
+                    "f": "",
+                    "a": ""
                 },
                 "categories": [
-
+                    ""
                 ]
             }]
         },
-        "colour": ,
-        "title": ,
-        "filter": ,
-        "trackingName": ,
+        "colour": "",
+        "title": "",
+        "filter": "",
+        "trackingName": "",
         "children": [{
             "heroes": {
                 "online": [{
-                    "customerId": ,
-                    "id": ,
-                    "type": ,
+                    "customerId": "",
+                    "id": "",
+                    "type": "",
                     "position": {
-                        "m": ,
-                        "f": ,
-                        "a":
+                        "m": "",
+                        "f": "",
+                        "a": ""
                     },
                     "size": {
-                        "m": ,
-                        "f": ,
-                        "a":
+                        "m": "",
+                        "f": "",
+                        "a": ""
                     },
                     "categories": [
-
+                        ""
                     ]
                 }],
                 "instore": [{
-                    "customerId": ,
-                    "id": ,
-                    "type": ,
+                    "customerId": "",
+                    "id": "",
+                    "type": "",
                     "position": {
-                        "m": ,
-                        "f": ,
-                        "a":
+                        "m": "",
+                        "f": "",
+                        "a": ""
                     },
                     "size": {
-                        "m": ,
-                        "f": ,
-                        "a":
+                        "m": "",
+                        "f": "",
+                        "a": ""
                     },
                     "categories": [
-
+                        ""
                     ]
                 }],
                 "all": [{
-                    "customerId": ,
-                    "id": ,
-                    "type": ,
+                    "customerId": "",
+                    "id": "",
+                    "type": "",
                     "position": {
-                        "m": ,
-                        "f": ,
-                        "a":
+                        "m": "",
+                        "f": "",
+                        "a": ""
                     },
                     "size": {
-                        "m": ,
-                        "f": ,
-                        "a":
+                        "m": "",
+                        "f": "",
+                        "a": ""
                     },
                     "categories": [
-
+                        ""
                     ]
                 }]
             },
-            "colour": ,
-            "title": ,
-            "filter": ,
-            "trackingName": ,
+            "colour": "",
+            "title": "",
+            "filter": "",
+            "trackingName": "",
             "children": [],
-            "isHidden": ,
+            "isHidden": "",
             "TopTiles": [{
-                "customerId": ,
-                "id": ,
-                "type": ,
+                "customerId": "",
+                "id": "",
+                "type": "",
                 "position": {
-                    "m": ,
-                    "f": ,
-                    "a":
+                    "m": "",
+                    "f": "",
+                    "a": ""
                 },
                 "size": {
-                    "m": ,
-                    "f": ,
-                    "a":
+                    "m": "",
+                    "f": "",
+                    "a": ""
                 },
                 "categories": [
-
+                    ""
                 ]
             }]
         }],
-        "isHidden": ,
+        "isHidden": "",
         "TopTiles": [{
-            "customerId": ,
-            "id": ,
-            "type": ,
+            "customerId": "",
+            "id": "",
+            "type": "",
             "position": {
-                "m": ,
-                "f": ,
-                "a":
+                "m": "",
+                "f": "",
+                "a": ""
             },
             "size": {
-                "m": ,
-                "f": ,
-                "a":
+                "m": "",
+                "f": "",
+                "a": ""
             },
             "categories": [
-
+                ""
             ]
         }]
     }]

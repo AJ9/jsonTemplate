@@ -2,144 +2,144 @@
     homePages: {
         heroes: [ '{{repeat(1)}}',
             {
-                customerId: '{{guid()}}',
-                id: '{{guid()}}',
-                type: '{{integer(100, 999)}}',
+                customerId: function (tags) {return 'value';},
+                id: function (tags) {return 'value';},
+                type: function (tags) {return 'value';},
                 position: {
-                    m: '{{integer(100, 999)}}',
-                    f: '{{integer(100, 999)}}',
-                    a: '{{integer(100, 999)}}'
+                    m: function (tags) {return 'value';},
+                    f: function (tags) {return 'value';},
+                    a: function (tags) {return 'value';}
                 }
             }],
         lists: [ '{{repeat(1)}}',
 			{
-				listId: '{{guid()}}',
-				size: '{{integer(100, 999)}}',
-				shouldShowTitle: '{{bool()}}'
+				listId: function (tags) {return 'value';},
+				size: function (tags) {return 'value';},
+				shouldShowTitle: function (tags) {return 'value';}
 			}
         ]
     },
-	searchPlaceholder: '{{lorem([3], "words")}}',
+	searchPlaceholder: function (tags) {return 'value';},
     searchNoSearchResults: {
-		title: '{{lorem([3], "words")}}',
+		title: function (tags) {return 'value';},
 		content: [ '{{repeat(1)}}',
 			{
-				id: '{{guid()}}',
-				type: '{{integer(100, 999)}}'
+				id: function (tags) {return 'value';},
+				type: function (tags) {return 'value';}
 			}]
 	},
     customSearchResults: [ '{{repeat(1)}}',
         {
-            id: '{{guid()}}',
-            searchTitle: '{{lorem([1], "words")}}',
-            searchSubTitle: '{{lorem([1], "words")}}',
-            link: '{{lorem([1], "words")}}',
+            id: function (tags) {return 'value';},
+            searchTitle: function (tags) {return 'value';},
+            searchSubTitle: function (tags) {return 'value';},
+            link: function (tags) {return 'value';},
             aliases: [ '{{repeat(1)}}',
-                '{{lorem([1], "words")}}'
+                function (tags) {return 'value';}
             ],
-            imageUrl: '{{lorem([1], "words")}}',
-            linkBehaviour: '{{integer(100, 999)}}'
+            imageUrl: function (tags) {return 'value';},
+            linkBehaviour: function (tags) {return 'value';}
         }
     ],
     settings: {
-        rewardsEnabled: '{{bool()}}',
-        blogEnabled: '{{bool()}}',
-          defaultRewardsAmount: '{{floating()}}',
-        registrationTermsAgreement: '{{integer(100, 999)}}'
+        rewardsEnabled: function (tags) {return 'value';},
+        blogEnabled: function (tags) {return 'value';},
+        defaultRewardsAmount: function (tags) {return 'value';},
+        registrationTermsAgreement: function (tags) {return 'value';}
     },
     customers: [ '{{repeat(1)}}',
     {
-        id: '{{guid()}}',
-        name: '{{lorem([1], "words")}}',
-        description:'{{lorem([1], "words")}}',
-        displayUrl: '{{lorem([1], "words")}}',
-        searchSubtitle: '{{lorem([1], "words")}}',
+        id: function (tags) {return 'value';},
+        name: function (tags) {return 'value';},
+        description:function (tags) {return 'value';},
+        displayUrl: function (tags) {return 'value';},
+        searchSubtitle: function (tags) {return 'value';},
         aliases: [ '{{repeat(1)}}',
-            '{{lorem([1], "words")}}'
+            function (tags) {return 'value';}
         ],
-        availableLogoId: '{{guid()}}',
-        comingSoonLogoId: '{{guid()}}',
+        availableLogoId: function (tags) {return 'value';},
+        comingSoonLogoId: function (tags) {return 'value';},
         perks: [ '{{repeat(1)}}',
             {
-                perkTermsMode: '{{integer(100, 999)}}',
-                perkTermsUrl:'{{lorem([1], "words")}}',
-                perkTermsText:'{{lorem([1], "words")}}',
-                description:'{{lorem([1], "words")}}',
-                viewPerkImageId: '{{guid()}}',
-                validity: '{{lorem([1], "words")}}',
+                perkTermsMode: function (tags) {return 'value';},
+                perkTermsUrl:function (tags) {return 'value';},
+                perkTermsText:function (tags) {return 'value';},
+                description:function (tags) {return 'value';},
+                viewPerkImageId: function (tags) {return 'value';},
+                validity: function (tags) {return 'value';},
                 share: {
-                    title: '{{lorem([1], "words")}}',
-                    message:'{{lorem([1], "words")}}',
-                    url: '{{lorem([1], "words")}}'
+                    title: function (tags) {return 'value';},
+                    message:function (tags) {return 'value';},
+                    url: function (tags) {return 'value';}
                 },
-                termsUrl: '{{lorem([1], "words")}}',
-                info: '{{lorem([1], "words")}}',
-                flag: '{{lorem([1], "words")}}',
-                subdomain: '{{lorem([1], "words")}}',
-                name: '{{lorem([1], "words")}}',
-                channel: '{{integer(100, 999)}}',
-                state: '{{integer(100, 999)}}',
-                perkType: '{{integer(100, 999)}}',
+                termsUrl: function (tags) {return 'value';},
+                info: function (tags) {return 'value';},
+                flag: function (tags) {return 'value';},
+                subdomain: function (tags) {return 'value';},
+                name: function (tags) {return 'value';},
+                channel: function (tags) {return 'value';},
+                state: function (tags) {return 'value';},
+                perkType: function (tags) {return 'value';},
                 gridImages: [ '{{repeat(1)}}',
                     {
-						id: '{{guid()}}',
-						sex: '{{integer(100, 999)}}'
+						id: function (tags) {return 'value';},
+						sex: function (tags) {return 'value';}
 					}
                 ],
                 heroImages: [ '{{repeat(1)}}',
                     {
-						id: '{{guid()}}',
-						sex: '{{integer(100, 999)}}'
+						id: function (tags) {return 'value';},
+						sex: function (tags) {return 'value';}
 					}
                 ],
                 viewPerkImages: [ '{{repeat(1)}}',
                     {
-						id: '{{guid()}}',
-						sex: '{{integer(100, 999)}}'
+						id: function (tags) {return 'value';},
+						sex: function (tags) {return 'value';}
 					}
                 ],
                 positiveKeyTerms: [ '{{repeat(1)}}',
-                                   '{{lorem([1], "words")}}'
+                                   function (tags) {return 'value';}
                 ],
                 negativeKeyTerms: [ '{{repeat(1)}}',
-                                   '{{lorem([1], "words")}}'
+                                   function (tags) {return 'value';}
                 ],
                 images: [
                     {
-                        id: '{{guid()}}',
-                        sex: '{{integer(100, 999)}}'
+                        id: function (tags) {return 'value';},
+                        sex: function (tags) {return 'value';}
                     }
                 ],
                 categories: [ '{{repeat(1)}}',
-                    '{{lorem([1], "words")}}'
+                    function (tags) {return 'value';}
                 ],
-                id: '{{guid()}}'
+                id: function (tags) {return 'value';}
             }
         ],
         customSlides: [
             
         ],
         relatedTo: [ '{{repeat(1)}}',
-            '{{guid()}}'
+            function (tags) {return 'value';}
         ],
         stocks: [ '{{repeat(1)}}',
-                    '{{lorem([1], "words")}}'
+                    function (tags) {return 'value';}
         ],
         similarTo: [ '{{repeat(1)}}',
-                    '{{lorem([1], "words")}}'
+                    function (tags) {return 'value';}
         ],
-        perkChannels: '{{integer(100, 999)}}',
-        perkStates: '{{integer(100, 999)}}'
+        perkChannels: function (tags) {return 'value';},
+        perkStates: function (tags) {return 'value';}
     }
 ],
-lists: [
-{
-id: '{{guid()}}',
-title: '{{lorem([1], "words")}}',
-trackingName: '{{lorem([1], "words")}}',
-onlineTileChannel: {},
-instoreTileChannel: {},
-homeTileChannel: {}
-}
-]
+    lists: [
+        {
+            id: function (tags) {return 'value';},
+            title: function (tags) {return 'value';},
+            trackingName: function (tags) {return 'value';},
+            onlineTileChannel: {},
+            instoreTileChannel: {},
+            homeTileChannel: {}
+        }
+    ]
 }
